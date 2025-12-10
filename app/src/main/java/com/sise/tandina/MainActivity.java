@@ -20,38 +20,6 @@ import com.sise.tandina.presentacion.inicio.InicioViewModel;
 
 public class MainActivity extends AppCompatActivity {
 
-//    EditText edtNombre;
-//    Button btnJugar;
-//
-//    @Override
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//        setContentView(R.layout.activity_main);
-//
-//        edtNombre = findViewById(R.id.main_edt_nombre);
-//        btnJugar = findViewById(R.id.main_btn_jugar);
-//
-//        btnJugar.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//
-//                String nombre = edtNombre.getText().toString().trim();
-//
-//                if (nombre.isEmpty()) {
-//                    Toast.makeText(MainActivity.this, "Por favor ingresa tu nombre", Toast.LENGTH_SHORT).show();
-//                    return;
-//                }
-//
-//                // PASAR AL ACTIVITY DE CATEGORÍAS
-//                Intent intent = new Intent(MainActivity.this, InicioActivity.class);
-//                intent.putExtra("nombreJugador", nombre);
-//                startActivity(intent);
-//            }
-//        });
-//    }
-
-
-
         EditText edtNombre;
         Button btnJugar;
         private InicioViewModel inicioViewModel;

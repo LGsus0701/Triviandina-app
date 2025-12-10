@@ -40,7 +40,7 @@
         android:id="@+id/btnCategoriaCultura"
         android:layout_width="400dp"
         android:layout_height="60dp"
-        android:text="@string/catvigentes_btn_cultura"
+        android:text="Cultura"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
