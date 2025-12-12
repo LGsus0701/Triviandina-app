@@ -1,9 +1,9 @@
 README - Proyecto Triviandina
 Integrantes: 
-CARHUAPOMA LLACSAHUANGA ESNAIDER
-RUIZ TAFUR JEYVIN
-SANTOS TORRES JHONATHAN
-CRUZ INFANTE ROSA ELVIRA
+* CARHUAPOMA LLACSAHUANGA ESNAIDER
+* RUIZ TAFUR JEYVIN
+* SANTOS TORRES JHONATHAN
+* CRUZ INFANTE ROSA ELVIRA
 
 1. Descripción General del Proyecto
 Triviandina es una aplicación móvil desarrollada en Android Studio con una API y una base de datos PostgreSQL. Está diseñada como una plataforma de trivia educativa sobre la cultura andina,deporte,farandula y arte permitiendo que el usuario interactúe con preguntas de opción múltiple relacionadas  la seccion de categorias .
