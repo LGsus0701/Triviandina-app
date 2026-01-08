@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tandina</string>
+    <!-- 🎮 TRIVIANDINA: INICIO -->
+    <string name="actinicio_titulo">TriviAndina</string>
+    <string name="actinicio_hint_nombre">Ingresa tu nombre</string>
+    <string name="actinicio_btn_jugar">¡A Jugar!</string>
+    <string name="actinicio_logo_desc">Logo de TriviAndina</string>
+
+    <!-- 🎮 TRIVIANDINA: CATEGORÍAS -->
+    <string name="catvigentes_titulo">¿Qué jugaremos hoy?</string>
+    <string name="catvigentes_bienvenida">Elige tu categoría</string>
+    <string name="catvigentes_btn_cultura">Cultura</string>
+    <string name="catvigentes_btn_deporte">Deporte</string>
+    <string name="catvigentes_btn_farandula">Farándula</string>
+    <string name="catvigentes_btn_arte">Arte</string>
+
+    <string name="acteleccionesvig_lbl_titulo">Categorias</string>
+
+    <string name="actmain_lbl_titulo">TriviAndina</string>
+
+    <string name="actpartpol_tv_titulo">Preguntas</string>
+
+</resources>
